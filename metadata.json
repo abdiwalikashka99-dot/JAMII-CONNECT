@@ -1,0 +1,10 @@
+{
+  "name": "Remix JAMII CONNECT",
+  "description": "Your Home. Your Services. One Connection. Kenya\u0027s trusted home services marketplace connecting homeowners with verified professionals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
